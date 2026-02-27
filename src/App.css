@@ -1,0 +1,8 @@
+.spinner-border.custom-spinner {
+  color: #000000;
+  border-color: #000000;
+  border-right-color: transparent;
+  width: 3rem;
+  height: 3rem;
+  border-width: 0.4em;
+}
